@@ -1,6 +1,15 @@
 # Custom Language File for Launcher Customizer
 
+[ejs.app]
+title = "Global SMP Launcher"
+
+
 [ejs.landing]
+mediaGitHubURL = "https://github.com/alzhetv/GlobalSMPLauncher"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "#"
 updateAvailableTooltip = "Mise à jour disponible"
 usernamePlaceholder = "Nom d'utilisateur"
 usernameEditButton = "Modifier"
@@ -51,6 +60,8 @@ accountSelectConfirm = "Sélectionner"
 accountSelectCancel = "Annuler"
 
 [ejs.settings]
+sourceGithubLink = "https://github.com/alzhetv/GlobalSMPLauncher"
+supportLink = "https://github.com/alzhetv/GlobalSMPLauncher/issues"
 navHeaderText = "Paramètres"
 navAccount = "Compte"
 navMinecraft = "Minecraft"
@@ -130,7 +141,9 @@ waitingText = "Microsoft est en train de réfléchir..."
 
 [ejs.welcome]
 continueButton = "CONTINUER"
-
+welcomeHeader = "HELLO THERE"
+welcomeDescription = "General Kenobi!"
+welcomeDescCTA = "Well well well"
 
 [js.discord]
 waiting = "Discord est en train de réfléchir..."
