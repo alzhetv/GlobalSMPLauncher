@@ -39,5 +39,6 @@ exports.setupLanguage = function(){
     //exports.loadLanguage('xx_XX')
 
     // Load Custom Language File for Launcher Customizer
-    exports.loadLanguage('_custom')
+    // exports.loadLanguage('_custom')
+    // I don't need it.
 }
